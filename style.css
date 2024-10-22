@@ -16,15 +16,20 @@ h1 {
     padding-top: 5%;
 }
 h3 {
-    color: rgb(7, 209, 0);
+    color: rgb(0, 255, 42);
     padding-top: 5%;
 }
-.neyv1 {
+
+h2 {
+    color: rgb(255, 255, 255);
+    padding-top: 5%;
+}
+.sova1 {
     font-style: italic;
 }
 
 .img1 {
-    width: 50%;
+    width: 40%;
 }
 
 .centro {
